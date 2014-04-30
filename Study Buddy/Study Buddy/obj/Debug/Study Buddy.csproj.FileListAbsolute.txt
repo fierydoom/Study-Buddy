@@ -1,0 +1,9 @@
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\bin\Debug\Study Buddy.exe.config
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\bin\Debug\Study Buddy.exe
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\bin\Debug\Study Buddy.pdb
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\obj\Debug\Study Buddy.csprojResolveAssemblyReference.cache
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\obj\Debug\Study_Buddy.Form1.resources
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\obj\Debug\Study_Buddy.Properties.Resources.resources
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\obj\Debug\Study Buddy.csproj.GenerateResource.Cache
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\obj\Debug\Study Buddy.exe
+C:\Users\Mine\Documents\GitHub\Study-Buddy\Study Buddy\Study Buddy\obj\Debug\Study Buddy.pdb
